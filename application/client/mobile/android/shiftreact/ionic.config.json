@@ -1,0 +1,7 @@
+{
+  "name": "shiftreact",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
